@@ -4,7 +4,8 @@
   icon: far fa-star
   links: 
     - title: 语雀
-      logo: 语雀.webp
+      #logo: 语雀.webp
+      logo: https://favicon.im/www.yuque.com
       url: https://www.yuque.com/
       description: 专业的云端知识库。
     - title: QQ 邮箱
