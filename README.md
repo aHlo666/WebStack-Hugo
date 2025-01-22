@@ -1,7 +1,3 @@
-> [!NOTE]
-> **2024年11月12日：更多新功能，请参考：<https://github.com/NavPage> 项目！**
-
-
 # 一个基于 Hugo 的静态响应式网址导航主题 
 
 本项目是基于**纯静态**的网址导航网站 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 制作的 [Hugo](https://gohugo.io/) 主题，是一个基于 Hugo 的静态响应式网址导航主题。<br/>
@@ -12,8 +8,7 @@
 
 ## 主题演示地址
 
-- 站点：<https://shenweiyan.github.io/WebStack-Demo/>
-- 源码：<https://github.com/shenweiyan/WebStack-Demo>
+- 站点：<https://ahlo666.github.io/WebStack-Hugo/>
 
 
 ## 特色功能
@@ -84,13 +79,8 @@ WebStack 有非常多的魔改版本，这是其中一个。如果你对本主�
 - [@yanbeiyinhanghang](https://github.com/yinhanghang)     
 - [@jetsung](https://github.com/jetsung)
 
-## 赞赏
-
-如果你觉得本项目对你有所帮助，欢迎请作者喝杯热咖啡 >.<
-
-![donate-wecaht-aliapy](https://user-images.githubusercontent.com/26101369/212630361-aa393be8-581e-4a97-bfe2-256e883791fb.jpg)
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=shenweiyan/WebStack-Hugo&type=Date)](https://star-history.com/#shenweiyan/WebStack-Hugo&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=aHlo666/WebStack-Hugo&type=Date)](https://star-history.com/#aHlo666/WebStack-Hugo&Date)
 
