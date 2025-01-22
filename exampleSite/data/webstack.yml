@@ -626,3 +626,12 @@
           logo: imooc.png
           description: 程序员的梦工厂（有UI课程）。
         
+- icon: fas fa-film fa-lg
+  list:
+  - links:
+    - description: 腾讯视频，海量视频在线观看。
+      logo: 腾讯视频.png
+      title: 腾讯视频
+      url: http://v.qq.com/
+    term: test1
+  taxonomy: test
